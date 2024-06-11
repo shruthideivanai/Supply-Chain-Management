@@ -1,0 +1,7 @@
+# Data-Driven Innovations In Supply Chain Management With Qlik Insights
+## Project Description
+- Companies face challenges in managing their supply chains efficiently due to the vast amount of data generated from various sources, including suppliers, manufacturers, distributors, and customers. Traditional methods of supply chain management often fall short in providing real-time insights,actionable intelligence, leading to inefficiencies, higher costs, and missed opportunities.
+- This problem statement aims to address the gap between the potential of Qlik Insights and its actual implementation in supply chain management.Harness Qlik’s sophisticated visualization tools to design dynamic and user-friendly dashboards, offering stakeholders detailed insights across the entire supply chain.
+- Ultimately, the integration of Qlik Insights into supply chain management leads to reduced operational costs, improved customer satisfaction, and a more resilient and agile supply chain, positioning organizations to thrive in a competitive and rapidly changing market environment.
+### DATASET LINK : [https://drive.google.com/drive/folders/1N1m9JFtcHgYZK9_WuDnQ8kJtO0l09mdg?usp=sharing](https://drive.google.com/drive/folders/1N1m9JFtcHgYZK9_WuDnQ8kJtO0l09mdg?usp=sharing)
+### PROJECT DEMONSTRATION LINK : [https://youtu.be/tKdfGXsGruA?si=msdgPvKahSOVAT6R](https://youtu.be/tKdfGXsGruA?si=msdgPvKahSOVAT6R)
